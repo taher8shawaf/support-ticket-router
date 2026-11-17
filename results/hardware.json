@@ -1,0 +1,10 @@
+{
+  "cpu": "12th Gen Intel(R) Core(TM) i7-12650H",
+  "logical_cores": 16,
+  "ram": "15.7 GB",
+  "os": "Windows 11",
+  "python": "3.12.10",
+  "torch": "2.5.1+cpu",
+  "torch_threads": 10,
+  "quantized_engine": "x86"
+}

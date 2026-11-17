@@ -1,0 +1,80 @@
+{"id": "domain-001", "text": "My washing machine shows error E04 and won't drain", "label": "technical_support", "lang": "en"}
+{"id": "domain-002", "text": "dishwasher DW-6534 is not draining water", "label": "technical_support", "lang": "en"}
+{"id": "domain-003", "text": "my fridge stopped cooling since yesterday, model RF-2200", "label": "technical_support", "lang": "en"}
+{"id": "domain-004", "text": "the washng machne makes a loud banging noise during spin", "label": "technical_support", "lang": "en"}
+{"id": "domain-005", "text": "oven OV-450 does not heat up anymore", "label": "technical_support", "lang": "en"}
+{"id": "domain-006", "text": "dryer is running but the clothes are still wet", "label": "technical_support", "lang": "en"}
+{"id": "domain-007", "text": "water is leaking under my dishwsher", "label": "technical_support", "lang": "en"}
+{"id": "domain-008", "text": "refridgerator freezer section has ice buildup, model RF-1180X", "label": "technical_support", "lang": "en"}
+{"id": "domain-009", "text": "washing machine door is locked and will not open after the cycle", "label": "technical_support", "lang": "en"}
+{"id": "domain-010", "text": "error code F21 on my dishwasher display", "label": "technical_support", "lang": "en"}
+{"id": "domain-011", "text": "the microwave sparks when I turn it on", "label": "technical_support", "lang": "en"}
+{"id": "domain-012", "text": "my air conditioner AC-9000 blows warm air", "label": "technical_support", "lang": "en"}
+{"id": "domain-013", "text": "tumble dryer DR-7700 smells like burning", "label": "technical_support", "lang": "en"}
+{"id": "domain-014", "text": "my vacuum cleaner lost its suction power", "label": "technical_support", "lang": "en"}
+{"id": "domain-015", "text": "fridge is making a buzzing sound all night", "label": "technical_support", "lang": "en"}
+{"id": "domain-016", "text": "dishwasher leaves white residue on the glasses", "label": "technical_support", "lang": "en"}
+{"id": "domain-017", "text": "bulaşık makinem su boşaltmıyor, model DW-6534", "label": "technical_support", "lang": "tr"}
+{"id": "domain-018", "text": "çamaşır makinesi E04 hatası veriyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-019", "text": "buzdolabım soğutmuyor model RF-2200", "label": "technical_support", "lang": "tr"}
+{"id": "domain-020", "text": "camasir makinam sıkma yaparken çok ses çıkarıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-021", "text": "fırın ısınmıyor, model OV-450", "label": "technical_support", "lang": "tr"}
+{"id": "domain-022", "text": "kurutma makinesi çalışıyor ama çamaşırlar ıslak kalıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-023", "text": "bulasik makinesinin altından su sızıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-024", "text": "buzdolabının dondurucusu buzlanma yapıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-025", "text": "çamaşır makinesinin kapağı yıkama bitince açılmıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-026", "text": "bulaşık makinesi ekranında F21 hata kodu var", "label": "technical_support", "lang": "tr"}
+{"id": "domain-027", "text": "mikrodalga fırın çalıştırınca kıvılcım çıkarıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-028", "text": "klimam AC-9000 sıcak hava üflüyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-029", "text": "kurutma makinesi DR-7700 yanık kokuyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-030", "text": "elektrikli süpürge artık hiç çekmiyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-031", "text": "buzdolabı bütün gece vızıldıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-032", "text": "bulaşık makinesi bardaklarda beyaz leke bırakıyor", "label": "technical_support", "lang": "tr"}
+{"id": "domain-033", "text": "the app cannot connect my washing machine to wifi", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-034", "text": "how do I pair my fridge with the smart home app", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-035", "text": "remote start is not working from my phone for model WM-8000", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-036", "text": "I don't get notifications when the dishwasher finishes", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-037", "text": "the app says my oven is offline", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-038", "text": "how can I update the firmware of my smart dryer", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-039", "text": "turn on the robot vacuum from the app", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-040", "text": "my air conditioner is not responding to voice commands", "label": "smart_home_app", "lang": "en"}
+{"id": "domain-041", "text": "uygulama çamaşır makinemi wifiye bağlayamıyor", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-042", "text": "buzdolabımı akıllı ev uygulamasıyla nasıl eşleştiririm", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-043", "text": "telefondan uzaktan başlatma çalışmıyor model WM-8000", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-044", "text": "bulaşık makinesi bitince bildirim gelmiyor", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-045", "text": "uygulama fırınım çevrimdışı diyor", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-046", "text": "akıllı kurutma makinemin yazılımını nasıl güncellerim", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-047", "text": "robot süpürgeyi uygulamadan çalıştır", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-048", "text": "klimam sesli komutlara yanıt vermiyor", "label": "smart_home_app", "lang": "tr"}
+{"id": "domain-049", "text": "I want to book a technician visit for my dishwasher", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-050", "text": "can a technician come tomorrow morning to fix my fridge", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-051", "text": "please reschedule my service appointment to Friday", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-052", "text": "cancel my repair appointment for next week", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-053", "text": "when is my technician coming", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-054", "text": "schedule an installation for my new washing machine", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-055", "text": "I need a maintenance visit for my air conditioner", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-056", "text": "is there an available service slot on Saturday", "label": "service_scheduling", "lang": "en"}
+{"id": "domain-057", "text": "bulaşık makinem için teknik servis randevusu almak istiyorum", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-058", "text": "yarın sabah buzdolabım için teknisyen gelebilir mi", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-059", "text": "servis randevumu cumaya ertelemek istiyorum", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-060", "text": "gelecek haftaki tamir randevumu iptal edin", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-061", "text": "teknisyen ne zaman gelecek", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-062", "text": "yeni çamaşır makinem için kurulum randevusu ayarla", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-063", "text": "klimam için bakım randevusu lazım", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-064", "text": "cumartesi günü boş servis saati var mı", "label": "service_scheduling", "lang": "tr"}
+{"id": "domain-065", "text": "where is my order for the new dishwasher", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-066", "text": "my refrigerator delivery is late", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-067", "text": "I want to track my washing machine order", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-068", "text": "can I change the delivery address for my oven order", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-069", "text": "the dryer arrived damaged and I want a replacement", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-070", "text": "I want to return the microwave I bought last week", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-071", "text": "when will my order RF-2200 be delivered", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-072", "text": "I ordered spare filters but they never arrived", "label": "orders_delivery", "lang": "en"}
+{"id": "domain-073", "text": "yeni bulaşık makinesi siparişim nerede", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-074", "text": "buzdolabı teslimatım gecikti", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-075", "text": "çamaşır makinesi siparişimi takip etmek istiyorum", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-076", "text": "fırın siparişimin teslimat adresini değiştirebilir miyim", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-077", "text": "kurutma makinesi hasarlı geldi değişim istiyorum", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-078", "text": "geçen hafta aldığım mikrodalgayı iade etmek istiyorum", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-079", "text": "RF-2200 siparişim ne zaman teslim edilecek", "label": "orders_delivery", "lang": "tr"}
+{"id": "domain-080", "text": "sipariş ettiğim yedek filtreler hiç gelmedi", "label": "orders_delivery", "lang": "tr"}

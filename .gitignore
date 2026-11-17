@@ -1,0 +1,30 @@
+# --- Large model weights: NEVER commit (link them via Hugging Face Hub / Google Drive) ---
+models/*
+!models/.gitkeep
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.joblib
+*.ckpt
+
+# --- Data (re-created by `python -m src.data_prep`) ---
+data/raw/
+data/processed/
+
+# --- Generated benchmark files (keep results.md if you want it in the repo) ---
+results/predictions.csv
+
+# --- Python / tooling ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.gradio/
+flagged/
+.DS_Store
+.idea/
+.vscode/

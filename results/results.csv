@@ -1,0 +1,6 @@
+model,area,precision,accuracy,oos_recall,oos_recall_with_fallback,in_scope_accuracy,macro_f1,domain_accuracy,en_accuracy,tr_accuracy,size_mb,latency_mean_ms,latency_p50_ms,latency_p95_ms,latency_runs
+M1 TF-IDF + LogReg,B,FP64 (sklearn),94.004,94.0,95.167,94.005,85.654,50.0,93.266,94.742,1.473,1.654,1.542,2.233,200
+M2 fastText-avg + FFNN (SGD),A+B,FP32,91.836,88.0,88.167,93.304,80.598,55.556,91.882,91.79,21.506,0.391,0.384,0.52,200
+M3 mBERT fine-tuned (teacher),C,FP32,94.465,91.833,92.0,95.472,89.095,83.333,95.111,93.819,682.231,32.848,32.1,42.508,200
+M4a Distilled student FP32 (ablation),C+D,FP32,93.127,94.0,94.0,92.793,82.837,61.111,93.911,92.343,519.985,15.391,15.237,18.074,200
+M4 Distilled mBERT INT8,C+D,INT8 (dynamic),89.53,97.5,97.667,86.48,80.507,55.556,90.498,88.561,133.961,14.451,14.171,17.407,200
