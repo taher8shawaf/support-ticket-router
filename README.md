@@ -137,17 +137,17 @@ The full Mermaid diagram is in `docs/architecture_and_slides_outline.md`.
 
 ## 📦 Model weights (not in Git)
 
-`.gitignore` excludes `models/` and every `*.pt / *.bin / *.onnx / *.safetensors / *.joblib` file. To share your trained weights:
+`.gitignore` excludes `models/` and every `*.pt / *.bin / *.onnx / *.safetensors / *.joblib` file.
 
-```bash
-huggingface-cli login
-python -m src.hub_weights upload   --repo <your-hf-username>/support-ticket-router
-python -m src.hub_weights download --repo <your-hf-username>/support-ticket-router
-```
+**Trained weights (all 4 models, 1.3 GB):** [models.zip on Google Drive](https://drive.google.com/file/d/1bqVYjnZeTtA973gqkMRzLKnpFsaIozYf/view?usp=sharing)
 
-Put the Hub link here: **Weights: https://huggingface.co/&lt;your-hf-username&gt;/support-ticket-router**.
+To run the app without training:
 
-Alternative: zip the `models/` folder, upload it to Google Drive ("anyone with the link"), link it here, and tell users to unzip it into `models/`.
+1. Download `models.zip` from the link above.
+2. Unzip it into the repository root, so that the folders are `models/model1_tfidf_logreg`, `models/model2_ffnn_fasttext`, `models/model3_mbert_teacher`, `models/model4a_student_fp32` and `models/model4_student_int8`.
+3. Run `python app.py`.
+
+(Alternative: `python -m src.hub_weights upload/download --repo <user>/support-ticket-router` shares the same folder through the Hugging Face Hub.)
 
 ---
 
